@@ -1,0 +1,10 @@
+{
+  "name": "reda-2020-genome-browser-lite",
+  "version": "0.1.0",
+  "description": "Static browser mockup for browsing genes, regions, and sample annotations.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
