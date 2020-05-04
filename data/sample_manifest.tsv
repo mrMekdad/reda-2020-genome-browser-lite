@@ -1,3 +1,4 @@
 sample	status	group
 genome-browser-lite-01	ready	control
 genome-browser-lite-02	review	case
+genome-browser-lite-03	queued	validation
